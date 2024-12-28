@@ -1,3 +1,16 @@
+# ignore unnecessary files and folders
+**/*~
+**/*.pyc
+**/.ipynb_checkpoints
+*.env
+*.files
+*.langchain.db
+*.chroma
+.vscode
+.DS_STORE
+__pycache__
+*.chainlit
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
