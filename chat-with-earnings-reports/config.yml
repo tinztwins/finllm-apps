@@ -1,0 +1,17 @@
+embedder:
+  provider: ollama
+  config:
+    model: 'all-minilm:latest'
+    base_url: 'http://localhost:11434'
+llm:
+  provider: ollama
+  config:
+    model: 'llama3.2:latest'
+    temperature: 0.5
+    stream: true
+    base_url: 'http://localhost:11434'
+vectordb:
+  provider: chroma
+  config:
+    dir: db
+    allow_reset: true
