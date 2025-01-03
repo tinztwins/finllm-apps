@@ -1,0 +1,6 @@
+pydantic==2.10.1
+phidata
+ollama
+yfinance
+duckduckgo-search
+chainlit
