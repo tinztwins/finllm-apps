@@ -1,0 +1,7 @@
+phidata
+ollama
+duckduckgo-search
+yfinance
+sqlalchemy
+fastapi[standard]
+python-docx
