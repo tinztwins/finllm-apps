@@ -1,0 +1,4 @@
+ag2[ollama]
+yfinance
+chainlit==2.2.1
+matplotlib

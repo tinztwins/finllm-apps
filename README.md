@@ -12,6 +12,7 @@ A curated list of impressive LLM apps in finance, made with RAG and AI agents. I
 * [📋 Chat with Earnings Reports](/chat-with-earnings-reports/)
 * [📈 Investment Agent](/investment-agent/)
 * [🏦 Finance Agent Team](/finance-agent-team/)
+* [📉 Compare Stock Price Performance](/compare-stock-price-performance/)
 
 # Getting started
 Clone this repo:
