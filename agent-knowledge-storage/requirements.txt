@@ -1,0 +1,9 @@
+agno
+ollama
+packaging 
+importlib-metadata
+sqlalchemy
+lancedb
+fastapi
+tantivy-py
+uvicorn
