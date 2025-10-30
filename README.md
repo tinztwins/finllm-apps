@@ -16,6 +16,7 @@ A curated list of impressive LLM apps in finance, made with RAG and AI agents. I
 * [📊 Chat with Financial Charts](/chat-with-financial-charts/)
 * [🗄️ Agent with knowledge and storage](/agent-knowledge-storage/)
 * [🧠 Agent with memory and tools](/agent-memory-tools/)
+* [😎 AgentOS with Agno](/agno-agent-os/)
 
 # Getting started
 Clone this repo:
